@@ -6,9 +6,3 @@ This repository contains various projects and activities completed as part of th
 - **HTML Files**: Structured content for web pages.
 - **CSS Files**: Styling for the web pages.
 - **Images**: Assets used in web projects.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/markalvincadangin/Intro-to-Computing.git
-2. Open any .html file in a web browser to view the projects.
